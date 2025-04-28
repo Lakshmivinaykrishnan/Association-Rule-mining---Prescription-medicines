@@ -1,8 +1,5 @@
 #  Association Rule Mining on Prescription Data
 
-##  Research Question
-
-**What are the most common and clinically significant prescription combinations among patients based on historical prescription data?**
 
 ##  Project Overview
 
