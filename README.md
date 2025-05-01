@@ -11,7 +11,7 @@ By applying market basket analysis techniques such as the Apriori algorithm and 
 - Understand clinically relevant co-prescription behaviors.
 - Suggest opportunities to improve drug prescribing practices.
 
-##  Contents
+##  Steps involved
 
 -  Import the dataset with prescription records, clean it, and prepare it for analysis
 -  Explanation of Market Basket  
